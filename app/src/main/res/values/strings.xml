@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">POC_Voice</string>
+
+    <string name="turn_speaker_on">Speaker ON</string>
+    <string name="callee">client identity or phone number</string>
+    <string name="answer">Answer</string>
+    <string name="decline">Decline</string>
+    <string name="callHint">Dial a client name or phone number. Leaving the field empty results in an automated response.</string>
+    <string name="audio_device">Audio Device</string>
+    <string name="select_device">Select Audio Device</string>
+    <string name="auttoken">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImN0eSI6InR3aWxpby1mcGE7dj0xIn0.eyJqdGkiOiJTSzliN2Q4ZjUzOGE4MDFkNzVmYjQ0ODkyNmEzOGY1MTM4LTE2NTU5ODYxNDciLCJncmFudHMiOnsiaWRlbnRpdHkiOiJhYmMiLCJ2b2ljZSI6eyJpbmNvbWluZyI6eyJhbGxvdyI6dHJ1ZX0sIm91dGdvaW5nIjp7ImFwcGxpY2F0aW9uX3NpZCI6IkFQOWMyNDA3MmY5MmFiODllMzg1OTRlZjg2ODIyMWYyMTQifSwicHVzaF9jcmVkZW50aWFsX3NpZCI6IkNSMjNkOWNlZDNlNjQyZmE5ZWM1MWIzNGE2ZmJkNTYyODUifX0sImlhdCI6MTY1NTk4NjE0NywiZXhwIjoxNjU1OTg5NzQ3LCJpc3MiOiJTSzliN2Q4ZjUzOGE4MDFkNzVmYjQ0ODkyNmEzOGY1MTM4Iiwic3ViIjoiQUNiZmY1MzdiMmM2Njg5Mjg1MTQyN2I0MmEzYzEzOGMzMCJ9.QXRJ9TqCG31etWQSNaOBD6L6VmLwEVZAHaMIt-nBlbI</string>
+
+</resources>

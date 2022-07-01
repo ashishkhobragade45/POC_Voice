@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916359846030",
+    "project_id": "poc-voice-5ea34",
+    "storage_bucket": "poc-voice-5ea34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916359846030:android:9b6a08247f452a345f11df",
+        "android_client_info": {
+          "package_name": "com.example.poc_voice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916359846030-lmao0af29a0jitvieengc33kil2kgfqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP4sqlK_yZH_iyFFj98UbpR4b4ekdGiXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916359846030-lmao0af29a0jitvieengc33kil2kgfqq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
